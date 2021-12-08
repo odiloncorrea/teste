@@ -1,0 +1,6 @@
+
+instalar: node
+
+npm install -g expo-cli
+
+expo init meuAPP
